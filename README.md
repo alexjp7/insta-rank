@@ -190,4 +190,4 @@ The **overall score** is a weighted average of all dimensions.
 
 ## 📝 License
 
-This project is for personal/educational use.
+This project is licensed under the [MIT License](LICENSE).
